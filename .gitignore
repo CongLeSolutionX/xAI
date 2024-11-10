@@ -1,3 +1,5 @@
 
 .venv/*
 .env
+
+/Integrations/Javascript/node_modules/*
