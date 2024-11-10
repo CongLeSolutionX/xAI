@@ -1,5 +1,5 @@
 
-.venv/*
+/Integrations/Python-client/.venv/*
 .env
 
-/Integrations/Javascript/node_modules/*
+/Integrations/Javascript-client/node_modules/*
